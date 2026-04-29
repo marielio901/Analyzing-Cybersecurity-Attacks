@@ -1,0 +1,10 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.4
+
+# Notebook/data analysis dependencies
+pandas==2.2.3
+plotly>=5.0.0
+nbformat>=5.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
